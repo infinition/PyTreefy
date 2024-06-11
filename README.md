@@ -1,9 +1,10 @@
 #PyTreefy  
 
-##PyTreefy is a Python script designed to explore a specified directory, generate a visual representation of its directory tree, and collect all Python scripts (*.py) present in that directory. The collected scripts are then combined with the directory tree structure and written to an output file.
-Feat![IMG_0846](https://github.com/infinition/PyTreefy/assets/37984399/15e39146-0f48-4157-bc77-e21a553f545f)
+![IMG_0846](https://github.com/infinition/PyTreefy/assets/37984399/ecadbdee-8218-45e3-8f5e-88bb22a10126)
 
-ures
+
+##PyTreefy is a Python script designed to explore a specified directory, generate a visual representation of its directory tree, and collect all Python scripts (*.py) present in that directory. The collected scripts are then combined with the directory tree structure and written to an output file.
+
 Directory Tree Generation: Creates a visual representation of the directory structure, including subdirectories and files.
 Python Script Collection: Collects and concatenates the contents of all Python scripts located in the specified directory.
 Output File Creation: Writes the directory tree and collected Python scripts to a single output file.
