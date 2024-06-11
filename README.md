@@ -1,4 +1,5 @@
 PyTreefy  is a Python script designed to explore a specified directory, generate a visual representation of its directory tree, and collect all Python scripts (*.py) present in that directory. The collected scripts are then combined with the directory tree structure and written to an output file.
+![Pytreefy-removebg-preview](https://github.com/infinition/PyTreefy/assets/37984399/6515bdc7-617e-4029-b853-9abce9955941)
 
 Features
 Directory Tree Generation: Creates a visual representation of the directory structure, including subdirectories and files.
