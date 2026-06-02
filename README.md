@@ -1,4 +1,6 @@
-# PyTreefy
+﻿# PyTreefy
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
 ![IMG_0846](https://github.com/infinition/PyTreefy/assets/37984399/ecadbdee-8218-45e3-8f5e-88bb22a10126)
 
@@ -77,4 +79,4 @@ directory/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT. See [LICENSE](LICENSE).
