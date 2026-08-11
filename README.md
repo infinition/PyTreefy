@@ -1,8 +1,10 @@
-﻿# PyTreefy
+<img width="339" height="340" alt="image-removebg-preview (15)" src="https://github.com/user-attachments/assets/aa56a2e9-018f-48e8-9108-de7e656c3cf8" />
+
+ 
+ # PyTreefy
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
-![IMG_0846](https://github.com/infinition/PyTreefy/assets/37984399/ecadbdee-8218-45e3-8f5e-88bb22a10126)
 
 PyTreefy is a Python utility that scans a directory, generates its file structure diagram, and concatenates the contents of all discovered Python files into a single consolidated file. This is useful for code auditing, documentation, or bundling context for language models.
 
