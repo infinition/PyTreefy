@@ -1,4 +1,6 @@
-<img width="339" height="340" alt="image-removebg-preview (15)" src="https://github.com/user-attachments/assets/aa56a2e9-018f-48e8-9108-de7e656c3cf8" />
+<p align="center">
+  <img src=".github/PyTreefy.png" alt="PyTreefy icon" width="339" height="340" />
+</p>
 
  
  # PyTreefy
